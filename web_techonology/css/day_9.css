@@ -1,0 +1,15 @@
+th{
+    border: solid 2px black;
+    padding: 10px 20px;
+    color: blanchedalmond;
+}
+td{
+    border: solid 2px black;
+    padding: 10px 20px;
+    color: blanchedalmond;
+}
+table{
+    border-collapse: collapse;
+    background-color: blue;
+    color: blanchedalmond;
+}

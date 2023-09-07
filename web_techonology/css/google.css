@@ -1,0 +1,29 @@
+div{
+    background-color: #e8e8e8;
+  width: 100%;
+  height: auto;
+  bottom: 0px;
+  top: 0px;
+  left: 0;
+  position: absolute;
+}
+h1{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    width: 100%;
+}
+
+.a{
+    color: blue;
+}
+.b{
+    color: orangered;
+}
+.c{
+    color: yellow;
+}
+.d{
+    color: green;
+}
